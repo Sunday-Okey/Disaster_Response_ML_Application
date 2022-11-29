@@ -1,4 +1,4 @@
-# Disaster Response Pipeline Project - An example of AI For Good
+# Disaster Response ML Pipeline Project - An example of AI For Good
 ## Real-life use of a machine learning model to combat natural disasters
 
 ## The Current Problem
