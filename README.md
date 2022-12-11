@@ -32,4 +32,4 @@ This project includes a web application where disaster response worker can input
     `python run.py`
 
 3. Go to http://0.0.0.0:3001/
-(here)[https://github.com/Sunday-Okey/Disaster_Response_ML_Application/blob/main/ETL_Pipeline_Preparation.ipynb](https://github.com/Sunday-Okey/Disaster_Response_ML_Application/blob/main/MP_Pipeline_Preparation.ipynb]
+[here](https://github.com/Sunday-Okey/Disaster_Response_ML_Application/blob/main/MP_Pipeline_Preparation.ipynb)
